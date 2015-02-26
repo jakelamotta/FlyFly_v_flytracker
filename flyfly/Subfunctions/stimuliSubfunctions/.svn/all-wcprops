@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/flyfly/!svn/ver/38/trunk/Subfunctions/stimuliSubfunctions
+END
+rotXY.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/flyfly/!svn/ver/38/trunk/Subfunctions/stimuliSubfunctions/rotXY.m
+END
+screenDrawBG.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/flyfly/!svn/ver/38/trunk/Subfunctions/stimuliSubfunctions/screenDrawBG.m
+END
+generateBarStimImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/flyfly/!svn/ver/38/trunk/Subfunctions/stimuliSubfunctions/generateBarStimImage.m
+END
+center2rect.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/flyfly/!svn/ver/38/trunk/Subfunctions/stimuliSubfunctions/center2rect.m
+END
+rect2center.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/flyfly/!svn/ver/38/trunk/Subfunctions/stimuliSubfunctions/rect2center.m
+END
+flipAngleDeg.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/flyfly/!svn/ver/38/trunk/Subfunctions/stimuliSubfunctions/flipAngleDeg.m
+END
+generateBarImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/flyfly/!svn/ver/38/trunk/Subfunctions/stimuliSubfunctions/generateBarImage.m
+END

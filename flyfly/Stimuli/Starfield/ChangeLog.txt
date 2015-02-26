@@ -1,0 +1,17 @@
+2011-07-21
+
+This version of Starfield has some small changes:
+
+The parameter VIEWDISTANCE in starfieldUserSettings is how far away from the viewers
+position objects exist. This value has the same unit has "distance to monitor" in
+the settings.
+
+VIEWDISTANCE, monitor width, distance to monitor and the screen resolution is used to 
+calculate the box which the stars exist within. The size is such that a viewer sitting
+in the center looking through the monitor is unable to see 4 of the 6 walls in the box.
+
+The length of the boxes sides is reffered to as box_x, box_y and box_z. Stars moving in
+the box will reappear on the other side if they hit any side.
+
+All this together should hopefully ensure that no stars will dissapear unexpectedly 
+from the monitor.

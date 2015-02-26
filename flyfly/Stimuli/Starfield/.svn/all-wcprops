@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/flyfly/!svn/ver/53/trunk/Stimuli/Starfield
+END
+starfieldPrep.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/flyfly/!svn/ver/38/trunk/Stimuli/Starfield/starfieldPrep.m
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/flyfly/!svn/ver/38/trunk/Stimuli/Starfield/ChangeLog.txt
+END
+starSeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/flyfly/!svn/ver/38/trunk/Stimuli/Starfield/starSeed.m
+END
+starfieldDraw.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/flyfly/!svn/ver/53/trunk/Stimuli/Starfield/starfieldDraw.m
+END
+starfieldRender.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/flyfly/!svn/ver/53/trunk/Stimuli/Starfield/starfieldRender.m
+END
+starfieldUserSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/flyfly/!svn/ver/38/trunk/Stimuli/Starfield/starfieldUserSettings.m
+END
+starfieldCalc.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/flyfly/!svn/ver/38/trunk/Stimuli/Starfield/starfieldCalc.m
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/flyfly/!svn/ver/38/trunk/Subfunctions/rootManip
+END
+getTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/flyfly/!svn/ver/38/trunk/Subfunctions/rootManip/getTable.m
+END
+clearRoot.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/flyfly/!svn/ver/38/trunk/Subfunctions/rootManip/clearRoot.m
+END
+setRoot.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/flyfly/!svn/ver/38/trunk/Subfunctions/rootManip/setRoot.m
+END
+getRoot.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/flyfly/!svn/ver/38/trunk/Subfunctions/rootManip/getRoot.m
+END
+setTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/flyfly/!svn/ver/38/trunk/Subfunctions/rootManip/setTable.m
+END
